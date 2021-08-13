@@ -1,0 +1,20 @@
+1
+Sample Calendar
+5
+4
+3
+2
+1
+Write an exam
+3
+2
+2
+12
+0
+13
+0
+Faculty Meeting
+5
+sample_calendar.txt
+0
+0
